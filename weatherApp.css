@@ -201,6 +201,9 @@ body{
             justify-content:  center;
             align-items: center;
         }
+    input::placeholder {
+    font-size: 15px ;
+}
     }
 @media(min-height:900px){
         .card{
